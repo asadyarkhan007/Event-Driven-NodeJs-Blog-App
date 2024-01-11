@@ -1,4 +1,3 @@
-Certainly! Below is a simple `README.md` for your GitHub repository:
 
 ````markdown
 # Blog Post Application
